@@ -1,0 +1,11 @@
+<soapenv:Envelope
+xmlns:fly="http://www.ibm.com/datapower/FLY/BaggageService/"
+xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header />
+    <soapenv:Body>
+        <fly:BaggageStatusRequest>
+            <fly:refNumber>11111</fly:refNumber>
+            <fly:lastName>Johnson</fly:lastName>
+        </fly:BaggageStatusRequest>
+    </soapenv:Body>
+</soapenv:Envelope>

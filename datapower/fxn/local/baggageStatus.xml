@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bagstatus xmlns="http://www.ibm.com/datapower/FLY/BaggageService/">
+	<passenger>
+		<refNumber>11111</refNumber>
+		<firstName>James</firstName>
+		<lastName>Johnson</lastName>
+		<bag>
+			<id>1589</id>
+			<destination>LHR</destination>
+			<status>On Belt</status>
+			<lastKnownLocation>DEL</lastKnownLocation>
+			<timeAtLastKnownLocation>Thu Jun 19 07:27 UTC 2014</timeAtLastKnownLocation>
+		</bag>
+		<bag>
+			<id>1289</id>
+			<destination>LHR</destination>
+			<status>On Belt</status>
+			<lastKnownLocation>DEL</lastKnownLocation>
+			<timeAtLastKnownLocation>Thu Jun 19 07:27 UTC 2014</timeAtLastKnownLocation>
+		</bag>
+		<bag>
+			<id>1325</id>
+			<destination>LHR</destination>
+			<status>On Belt</status>
+			<lastKnownLocation>DEL</lastKnownLocation>
+			<timeAtLastKnownLocation>Thu Jun 19 07:27 UTC 2014</timeAtLastKnownLocation>
+		</bag>	
+	</passenger>
+	<passenger>
+		<refNumber>22222</refNumber>
+		<firstName>Alan</firstName>
+		<lastName>Stone</lastName>
+		<bag>
+			<id>6549</id>
+			<destination>DFW</destination>
+			<status>On Belt</status>
+			<lastKnownLocation>PAR</lastKnownLocation>
+			<AirlineCode>DL</AirlineCode>
+			<timeAtLastKnownLocation>Thu Jun 19 14:37 UTC 2014</timeAtLastKnownLocation>
+		</bag>
+	</passenger>
+	<passenger>
+		<refNumber>12345</refNumber>
+		<firstName>John</firstName>
+		<lastName>Smith</lastName>
+		<bag>
+			<id>1730</id>
+			<destination>DUB</destination>
+			<status>On Belt</status>
+			<lastKnownLocation>OSL</lastKnownLocation>
+			<AirlineCode>DL</AirlineCode>
+			<timeAtLastKnownLocation>Thu Jun 19 15:10 UTC 2014</timeAtLastKnownLocation>
+		</bag>
+	</passenger>
+	<passenger>
+		<refNumber>33333</refNumber>
+		<firstName>Cindy</firstName>
+		<lastName>Holms</lastName>
+		<bag>
+			<id>1986</id>
+			<destination>QSY</destination>
+			<status>On Belt</status>
+			<lastKnownLocation>BER</lastKnownLocation>
+			<AirlineCode>DL</AirlineCode>
+			<timeAtLastKnownLocation>Wed Jun 18 18:46 UTC 2014</timeAtLastKnownLocation>
+		</bag>
+	</passenger>
+</bagstatus>

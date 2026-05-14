@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+   <soapenv:Header/>
+   <soapenv:Body>
+	  <fly:BagInfoRequest xmlns:fly="http://www.ibm.com/datapower/FLY/BaggageService/">
+		 <fly:id>1589</fly:id>
+	  </fly:BagInfoRequest>
+    </soapenv:Body>
+</soapenv:Envelope>
+
